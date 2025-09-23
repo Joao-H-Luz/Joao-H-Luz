@@ -18,9 +18,9 @@ Sou estudante de **Ciência de Dados e Inteligência Artificial** na **PUCRS**, 
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https:https://github.com/Joao-H-Luz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-H-Luz-github&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Luz-github&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Joao-H-Luz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-H-Luz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Luz&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
