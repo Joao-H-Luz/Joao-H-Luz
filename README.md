@@ -8,12 +8,7 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/Joao-H-Luz">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-H-Luz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Joao-H-Luz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Luz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</a>
+<img src="https://metrics.lecoq.io/Joao-H-Luz?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" width="400" />
 
 </div>
 
