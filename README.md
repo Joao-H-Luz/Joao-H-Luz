@@ -8,10 +8,14 @@
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<a href="https://github.com/Joao-H-Luz">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-H-Luz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Joao-H-Luz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Luz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</a>
 
 </div>
-
 
 
 ---
