@@ -8,9 +8,11 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://metrics.lecoq.io/Joao-H-Luz?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" width="400" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 </div>
+
+
 
 ---
 
