@@ -67,26 +67,26 @@
     </g>
 
     <g class="line" style="animation-delay: 0.8s">
-      <text x="24" y="190"><tspan class="green">henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">whoami</tspan></text>
+      <text x="24" y="190"><tspan class="green">joao_henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">whoami</tspan></text>
       <text x="24" y="207" class="white">→ João Henrique da Luz | Data Science &amp; AI @ PUCRS</text>
     </g>
 
     <g class="line" style="animation-delay: 1.2s">
-      <text x="24" y="230"><tspan class="green">henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">cat skills.txt</tspan></text>
+      <text x="24" y="230"><tspan class="green">joao_henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">cat skills.txt</tspan></text>
       <text x="24" y="247"><tspan class="yellow"> [AI/ML]</tspan><tspan class="white"> Machine Learning · Deep Learning · NLP</tspan></text>
       <text x="24" y="263"><tspan class="yellow"> [Data] </tspan><tspan class="white"> Python · Pandas · SQL · Análise Preditiva</tspan></text>
       <text x="24" y="279"><tspan class="yellow"> [Infra]</tspan><tspan class="white"> MLOps · Docker · Cloud Deploy</tspan></text>
     </g>
 
     <g class="line" style="animation-delay: 1.8s">
-      <text x="24" y="305"><tspan class="green">henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">ls -la projetos/</tspan></text>
+      <text x="24" y="305"><tspan class="green">joao_henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">ls -la projetos/</tspan></text>
       <text x="24" y="322"><tspan class="blue">drwxr-xr-x</tspan><tspan class="white"> App_Leitor_NFs</tspan><tspan class="gray">      → Leitor p/ .xlsx</tspan></text>
       <text x="24" y="338"><tspan class="blue">drwxr-xr-x</tspan><tspan class="white"> ALEST_II-Projetos</tspan><tspan class="gray">   → Estruturas Dados</tspan></text>
       <text x="24" y="354"><tspan class="blue">drwxr-xr-x</tspan><tspan class="white"> T-1_ALEST_II</tspan><tspan class="gray">        → Nuvem/Cloud</tspan></text>
     </g>
 
     <g class="line" style="animation-delay: 2.4s">
-      <text x="24" y="385"><tspan class="green">henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">cat contato.json</tspan></text>
+      <text x="24" y="385"><tspan class="green">joao_henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">cat contato.json</tspan></text>
       <text x="24" y="402" class="pink">{</text>
       <text x="24" y="418" class="gray">   "linkedin": <tspan class="green">"in/joaohenriqueluz"</tspan>,</text>
       <text x="24" y="434" class="gray">   "email":    <tspan class="green">"joaohluz13@gmail.com"</tspan></text>
@@ -94,8 +94,8 @@
     </g>
 
     <g class="line" style="animation-delay: 3.3s">
-      <text x="24" y="485"><tspan class="green">henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan></text>
-      <rect x="145" y="472" width="9" height="15" class="cursor"/>
+      <text x="24" y="485"><tspan class="green">joao_henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan></text>
+      <rect x="187" y="472" width="9" height="15" class="cursor"/>
     </g>
   </g>
 </svg>
