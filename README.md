@@ -1,27 +1,39 @@
-# Olá, eu sou João Henrique da Luz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaohenriqueluz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaohluz13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<div align="center">
+  <img src="./terminal.svg" alt="Terminal João Henrique" width="800"/>
+</div>
 
 ---
 
-### Sobre Mim
+<div align="center">
 
-Sou estudante de **Ciência de Dados e Inteligência Artificial** na **PUCRS**, fascinado pelo poder dos dados para gerar conhecimento e inovação. Estou sempre em busca de novos desafios e aprendizados na área de IA.
+### 📊 GitHub Stats
 
-- 🎓 Cursando **Ciência de Dados e IA** na PUCRS.
-- 🧠 Foco em **Machine Learning**, **Deep Learning** e **Análise Preditiva**.
-- 🚀 Explorando o universo de **MLOps** e a implementação de modelos em produção.
+![Stats](https://github-readme-stats.vercel.app/api?username=Joao-H-Luz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Luz&layout=compact&langs_count=7&theme=github_dark&hide_border=true)
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/Joao-H-Luz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-H-Luz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Luz&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</p>
+</div>
 
 ---
+
+<div align="center">
+
+### 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3fb950&labelColor=161b22)
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=3fb950&labelColor=161b22)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=3fb950&labelColor=161b22)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58a6ff&labelColor=161b22)
+![SQL](https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff&labelColor=161b22)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=f47067&labelColor=161b22)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/joaohenriqueluz)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f47067&labelColor=161b22)](mailto:joaohluz13@gmail.com)
+
+</div>

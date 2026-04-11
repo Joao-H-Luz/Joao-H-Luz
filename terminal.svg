@@ -1,0 +1,169 @@
+<svg width="800" height="480" viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap');
+
+      .terminal-bg { fill: #0d1117; }
+      .terminal-border { fill: #161b22; rx: 10; }
+      .dot-red { fill: #ff5f57; }
+      .dot-yellow { fill: #ffbd2e; }
+      .dot-green { fill: #28c840; }
+      .bar { fill: #161b22; }
+      .title-text { fill: #8b949e; font-family: 'Fira Code', monospace; font-size: 12px; }
+
+      .prompt { fill: #58a6ff; font-family: 'Fira Code', monospace; font-size: 13px; font-weight: bold; }
+      .cmd    { fill: #e6edf3; font-family: 'Fira Code', monospace; font-size: 13px; }
+      .green  { fill: #3fb950; font-family: 'Fira Code', monospace; font-size: 13px; }
+      .yellow { fill: #d29922; font-family: 'Fira Code', monospace; font-size: 13px; }
+      .blue   { fill: #58a6ff; font-family: 'Fira Code', monospace; font-size: 13px; }
+      .pink   { fill: #f47067; font-family: 'Fira Code', monospace; font-size: 13px; }
+      .gray   { fill: #8b949e; font-family: 'Fira Code', monospace; font-size: 13px; }
+      .white  { fill: #e6edf3; font-family: 'Fira Code', monospace; font-size: 13px; }
+
+      .ascii  { fill: #3fb950; font-family: 'Fira Code', monospace; font-size: 11px; font-weight: bold; }
+
+      .cursor {
+        fill: #58a6ff;
+        animation: blink 1s step-end infinite;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+
+      /* line-by-line fade-in */
+      .l0  { opacity: 0; animation: fadein 0.3s 0.2s forwards; }
+      .l1  { opacity: 0; animation: fadein 0.3s 0.5s forwards; }
+      .l2  { opacity: 0; animation: fadein 0.3s 0.7s forwards; }
+      .l3  { opacity: 0; animation: fadein 0.3s 0.9s forwards; }
+      .l4  { opacity: 0; animation: fadein 0.3s 1.1s forwards; }
+      .l5  { opacity: 0; animation: fadein 0.3s 1.3s forwards; }
+      .l6  { opacity: 0; animation: fadein 0.3s 1.5s forwards; }
+      .l7  { opacity: 0; animation: fadein 0.3s 1.8s forwards; }
+      .l8  { opacity: 0; animation: fadein 0.3s 2.1s forwards; }
+      .l9  { opacity: 0; animation: fadein 0.3s 2.4s forwards; }
+      .l10 { opacity: 0; animation: fadein 0.3s 2.7s forwards; }
+      .l11 { opacity: 0; animation: fadein 0.3s 3.0s forwards; }
+      .l12 { opacity: 0; animation: fadein 0.3s 3.3s forwards; }
+      .l13 { opacity: 0; animation: fadein 0.3s 3.6s forwards; }
+      .l14 { opacity: 0; animation: fadein 0.3s 3.9s forwards; }
+      .l15 { opacity: 0; animation: fadein 0.3s 4.2s forwards; }
+      .l16 { opacity: 0; animation: fadein 0.3s 4.5s forwards; }
+      .l17 { opacity: 0; animation: fadein 0.3s 4.8s forwards; }
+      .l18 { opacity: 0; animation: fadein 0.3s 5.1s forwards; }
+      .l19 { opacity: 0; animation: fadein 0.3s 5.4s forwards; }
+      .l20 { opacity: 0; animation: fadein 0.3s 5.7s forwards; }
+      .l21 { opacity: 0; animation: fadein 0.3s 6.0s forwards; }
+      .l22 { opacity: 0; animation: fadein 0.3s 6.3s forwards; }
+
+      @keyframes fadein {
+        from { opacity: 0; transform: translateX(-4px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+    </style>
+  </defs>
+
+  <!-- Fundo geral -->
+  <rect width="800" height="480" rx="12" class="terminal-bg"/>
+
+  <!-- Barra do topo -->
+  <rect x="0" y="0" width="800" height="36" rx="12" class="bar"/>
+  <rect x="0" y="18" width="800" height="18" class="bar"/>
+
+  <!-- Bolinhas -->
+  <circle cx="22" cy="18" r="6" class="dot-red"/>
+  <circle cx="42" cy="18" r="6" class="dot-yellow"/>
+  <circle cx="62" cy="18" r="6" class="dot-green"/>
+
+  <!-- Título da janela -->
+  <text x="400" y="23" text-anchor="middle" class="title-text">joao@pucrs: ~</text>
+
+  <!-- ══ CONTEÚDO ══ -->
+
+  <!-- ASCII art nome -->
+  <g class="l0">
+    <text x="24" y="65"  class="ascii">  ___  _  _  ____  ____</text>
+  </g>
+  <g class="l1">
+    <text x="24" y="78"  class="ascii"> |  _|| || ||  _ ||  _ |</text>
+  </g>
+  <g class="l2">
+    <text x="24" y="91"  class="ascii"> | |_ | \| || |_||  |_|</text>
+  </g>
+  <g class="l3">
+    <text x="24" y="104" class="ascii"> |___||_|\_||____||_|</text>
+  </g>
+
+  <!-- Separador -->
+  <g class="l4">
+    <text x="24" y="122" class="gray">──────────────────────────────────────────────────────────────</text>
+  </g>
+
+  <!-- Linha 1: whoami -->
+  <g class="l5">
+    <text x="24" y="143"><tspan class="green">joao@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">whoami</tspan></text>
+  </g>
+  <g class="l6">
+    <text x="24" y="160" class="white">→  João Henrique da Luz  |  Data Science &amp; AI @ PUCRS</text>
+  </g>
+
+  <!-- Linha 2: cat skills -->
+  <g class="l7">
+    <text x="24" y="182"><tspan class="green">joao@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">cat skills.txt</tspan></text>
+  </g>
+  <g class="l8">
+    <text x="24" y="199"><tspan class="yellow">  [AI / ML]      </tspan><tspan class="white">Machine Learning · Deep Learning · NLP</tspan></text>
+  </g>
+  <g class="l9">
+    <text x="24" y="215"><tspan class="yellow">  [Data]         </tspan><tspan class="white">Python · Pandas · SQL · Análise Preditiva</tspan></text>
+  </g>
+  <g class="l10">
+    <text x="24" y="231"><tspan class="yellow">  [Infra]        </tspan><tspan class="white">MLOps · Docker · Cloud Deploy</tspan></text>
+  </g>
+
+  <!-- Linha 3: ls repos -->
+  <g class="l11">
+    <text x="24" y="253"><tspan class="green">joao@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">ls -la projetos/</tspan></text>
+  </g>
+  <g class="l12">
+    <text x="24" y="270"><tspan class="blue">drwxr-xr-x  </tspan><tspan class="white">App_Leitor_NFs          </tspan><tspan class="gray">→ Leitor de NFs para .xlsx</tspan></text>
+  </g>
+  <g class="l13">
+    <text x="24" y="286"><tspan class="blue">drwxr-xr-x  </tspan><tspan class="white">ALEST_II-Projetos       </tspan><tspan class="gray">→ Estruturas de Dados</tspan></text>
+  </g>
+  <g class="l14">
+    <text x="24" y="302"><tspan class="blue">drwxr-xr-x  </tspan><tspan class="white">T-1_ALEST_II            </tspan><tspan class="gray">→ Processamento em nuvem</tspan></text>
+  </g>
+
+  <!-- Linha 4: contact -->
+  <g class="l15">
+    <text x="24" y="324"><tspan class="green">joao@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">cat contato.json</tspan></text>
+  </g>
+  <g class="l16">
+    <text x="24" y="341"><tspan class="pink">{</tspan></text>
+  </g>
+  <g class="l17">
+    <text x="24" y="357"><tspan class="gray">   "linkedin" : </tspan><tspan class="green">"linkedin.com/in/joaohenriqueluz"</tspan><tspan class="white">,</tspan></text>
+  </g>
+  <g class="l18">
+    <text x="24" y="373"><tspan class="gray">   "email"    : </tspan><tspan class="green">"joaohluz13@gmail.com"</tspan><tspan class="white">,</tspan></text>
+  </g>
+  <g class="l19">
+    <text x="24" y="389"><tspan class="gray">   "local"    : </tspan><tspan class="green">"Gravataí, RS — Brasil"</tspan></text>
+  </g>
+  <g class="l20">
+    <text x="24" y="405"><tspan class="pink">}</tspan></text>
+  </g>
+
+  <!-- Separador final -->
+  <g class="l21">
+    <text x="24" y="423" class="gray">──────────────────────────────────────────────────────────────</text>
+  </g>
+
+  <!-- Prompt final com cursor piscando -->
+  <g class="l22">
+    <text x="24" y="443"><tspan class="green">joao@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan></text>
+    <rect x="107" y="430" width="9" height="15" class="cursor"/>
+  </g>
+</svg>
