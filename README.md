@@ -8,11 +8,11 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/Joao-H-Luz">
+<a href="https://github.com/joao-H-Luz">
   <img src="https://github-readme-stats.vercel.app/api?username=Joao-H-Luz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
 </a>
 &nbsp;
-<a href="https://github.com/Joao-H-Luz">
+<a href="https://github.com/joao-H-Luz">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Luz&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Top Langs" />
 </a>
 
