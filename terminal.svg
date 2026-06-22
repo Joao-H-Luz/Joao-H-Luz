@@ -54,10 +54,10 @@
 
     <g class="line" style="animation-delay: 0.2s">
       <text x="24" y="80" class="neon-blue" xml:space="preserve">
-        <tspan x="24" dy="0">  _   _ _____ _   _ ____  ___ ___  _   _ _____</tspan>
+        <tspan x="24" dy="0">   _   _ _____ _   _ ____  ___ ___  _   _ _____</tspan>
         <tspan x="24" dy="15"> | | | | ____| \ | |  _ \|_ _/ _ \| | | | ____|</tspan>
         <tspan x="24" dy="15"> | |_| |  _| |  \| | |_) || | | | | | | |  _|  </tspan>
-        <tspan x="24" dy="15"> |  _  | |___| |\  |  _ &lt; | | |_| | |_| | |___ </tspan>
+        <tspan x="24" dy="15"> |  _  | |___| |\  |  _ &lt;| | |_| | |_| | |___ </tspan>
         <tspan x="24" dy="15"> |_| |_|_____|_| \_|_| \_\___\__\_\\___/|_____|</tspan>
       </text>
     </g>
@@ -79,10 +79,8 @@
     </g>
 
     <g class="line" style="animation-delay: 1.8s">
-      <text x="24" y="305"><tspan class="green">joao_henrique@pucrs</tspan><tspan class="white">:</tspan><tspan class="blue">~</tspan><tspan class="white"> $ </tspan><tspan class="cmd">ls -la projetos/</tspan></text>
-      <text x="24" y="322"><tspan class="blue">drwxr-xr-x</tspan><tspan class="white"> App_Leitor_NFs</tspan><tspan class="gray">      → Leitor p/ .xlsx</tspan></text>
-      <text x="24" y="338"><tspan class="blue">drwxr-xr-x</tspan><tspan class="white"> ALEST_II-Projetos</tspan><tspan class="gray">   → Estruturas Dados</tspan></text>
-      <text x="24" y="354"><tspan class="blue">drwxr-xr-x</tspan><tspan class="white"> T-1_ALEST_II</tspan><tspan class="gray">        → Nuvem/Cloud</tspan></text>
+      <text fill="#7ee787" font-family="monospace" font-size="16" x="30" y="130">✓ Ohl.AI Ecosystem online [Active]</text>
+      <text fill="#7ee787" font-family="monospace" font-size="16" x="30" y="160">✓ Credit Risk Models deployed successfully</text>
     </g>
 
     <g class="line" style="animation-delay: 2.4s">
