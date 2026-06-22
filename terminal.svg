@@ -54,7 +54,7 @@
 
     <g class="line" style="animation-delay: 0.2s">
       <text x="24" y="80" class="neon-blue" xml:space="preserve">
-        <tspan x="24" dy="0">   _   _ _____ _   _ ____  ___ ___  _   _ _____</tspan>
+        <tspan x="24" dy="0">  _   _ _____ _   _ ____  ___ ___  _   _ _____</tspan>
         <tspan x="24" dy="15"> | | | | ____| \ | |  _ \|_ _/ _ \| | | | ____|</tspan>
         <tspan x="24" dy="15"> | |_| |  _| |  \| | |_) || | | | | | | |  _|  </tspan>
         <tspan x="24" dy="15"> |  _  | |___| |\  |  _ &lt;| | |_| | |_| | |___ </tspan>
