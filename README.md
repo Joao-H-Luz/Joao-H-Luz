@@ -8,18 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&width=435&lines=Transformando+dados+em+predi%C3%A7%C3%B5es.;Desenvolvendo+o+futuro+do+AgroTech.;Explorando+LLMs+locais+e+Computer+Vision." alt="Typing SVG" />
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/Joao-H-Luz">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-H-Luz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Joao-H-Luz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-H-Luz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</a>
-
-</div>
-
-
 ---
 
 <div align="center">
