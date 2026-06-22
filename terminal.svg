@@ -79,8 +79,8 @@
     </g>
 
     <g class="line" style="animation-delay: 1.8s">
-      <text fill="#7ee787" font-family="monospace" font-size="16" x="30" y="130">✓ Ohl.AI Ecosystem online [Active]</text>
-      <text fill="#7ee787" font-family="monospace" font-size="16" x="30" y="160">✓ Credit Risk Models deployed successfully</text>
+      <text fill="#7ee787" font-family="monospace" font-size="16" x="24" y="322">✓ Ohl.AI Ecosystem online [Active]</text>
+      <text fill="#7ee787" font-family="monospace" font-size="16" x="24" y="338">✓ Credit Risk Models deployed successfully</text>
     </g>
 
     <g class="line" style="animation-delay: 2.4s">
